@@ -18,7 +18,7 @@ pkg install git
 pip2 install bs4    
 pip2 install requests
 pip2 install mechanize  
-git clone https://github.com/KINGTEBE-404/Cloning-FB
+git clone https://github.com/KINGTEBE-404/terbaru
 cd Cloning-FB  
 python2 run.py
 
